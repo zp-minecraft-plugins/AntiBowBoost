@@ -1,0 +1,5 @@
+author: Zack Pollard
+description: A simple anti bow boost plugin for Minecraft.
+main: pro.zackpollard.antibowboost.AntiBowBoost
+name: AntiBowBoost
+version: 1.0
